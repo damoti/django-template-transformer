@@ -1,0 +1,11 @@
+name: 'django_template_transformer'
+version: 0.0.1
+homepage: https://github.com/damoti/django-template-transformer
+description: >
+  Dart pubspec transformer that allows you to use Django templates
+  as your HTML scaffolding for Dart web apps.
+author: Lex Berezhny <lex@damoti.com>
+dependencies:
+  barback: any
+dev_dependencies:
+  unittest: any
